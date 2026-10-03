@@ -1,4 +1,4 @@
-package com.thefunone.theneonlight.GameArea;
+/*package ___;*/
 
 import java.util.ArrayList;
 

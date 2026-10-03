@@ -1,4 +1,4 @@
-package com.thefunone.theneonlight.GameArea;
+/*package ___;*/
 
 import android.graphics.Bitmap;
 import android.graphics.Point;
